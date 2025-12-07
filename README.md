@@ -3,7 +3,7 @@ Create a new repository on GitHub named "git-task"
 Copy the repository path
 Run these commands in your terminal:
 ```
-git remote set-url origin https://github.com/hnkohla/nationdev-educational-platform.git
+git remote set-url origin https://github.com/mcllale/git-task.git
 git push -u origin master
 ```
 After pushing, go to GitHub and:
